@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Stepper Motor Timing\Design03\Header Files">
+<ExpandedNodeIds>
+<v>Stepper Motor Timing</v>
+<v>Stepper Motor Timing\Design03</v>
+<v>Stepper Motor Timing\Design03\TopDesign</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr\Pins</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr\Analog</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr\Clocks</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr\Interrupts</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr\DMA</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr\System</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr\Directives</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr\Flash Security</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr\EEPROM</v>
+<v>Stepper Motor Timing\Design03\Header Files</v>
+<v>Stepper Motor Timing\Design03\Header Files\cyapicallbacks.h</v>
+<v>Stepper Motor Timing\Design03\Header Files\device.h</v>
+<v>Stepper Motor Timing\Design03\Source Files</v>
+<v>Stepper Motor Timing\Design03\Source Files\main.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\cm3gcc.ld</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\Cm3Iar.icf</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\Cm3RealView.scat</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\Cm3Start.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\cmsis_armcc.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\cmsis_gcc.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\core_cm3.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\core_cm3_psoc5.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\core_cmFunc.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\core_cmInstr.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CyBootAsmGnu.s</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CyBootAsmIar.s</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CyBootAsmRv.s</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CyDmac.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CyDmac.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CyFlash.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CyFlash.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CyLib.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CyLib.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\cypins.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\cyPm.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\cyPm.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CySpc.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CySpc.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\cytypes.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\cyutils.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\Stepper</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\Stepper\Stepper.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\Stepper\Stepper.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\Stepper\Stepper_aliases.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\UART_1</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\UART_1\UART_1.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\UART_1\UART_1.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\UART_1\UART_1_BOOT.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\UART_1\UART_1_INT.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\UART_1\UART_1_PM.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\UART_1_IntClock</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\UART_1_IntClock\UART_1_IntClock.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\UART_1_IntClock\UART_1_IntClock.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cycodeshareexport.ld</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cycodeshareimport.ld</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cycodeshareimport.scat</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cydevice.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cydevice_trm.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cydevicegnu.inc</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cydevicegnu_trm.inc</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cydeviceiar.inc</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cydeviceiar_trm.inc</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cydevicerv.inc</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cydevicerv_trm.inc</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cydisabledsheets.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cyfitter.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cyfitter_cfg.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cyfitter_cfg.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cyfittergnu.inc</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cyfitteriar.inc</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cyfitterrv.inc</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cymetadata.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\project.h</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Stepper Motor Timing</v>
+<v>Stepper Motor Timing\Design03</v>
+<v>Stepper Motor Timing\Design03\TopDesign</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr\Pins</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr\Analog</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr\Clocks</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr\Interrupts</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr\DMA</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr\System</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr\Directives</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr\Flash Security</v>
+<v>Stepper Motor Timing\Design03\Design03.cydwr\EEPROM</v>
+<v>Stepper Motor Timing\Design03\Header Files</v>
+<v>Stepper Motor Timing\Design03\Header Files\cyapicallbacks.h</v>
+<v>Stepper Motor Timing\Design03\Header Files\device.h</v>
+<v>Stepper Motor Timing\Design03\Source Files</v>
+<v>Stepper Motor Timing\Design03\Source Files\main.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\cm3gcc.ld</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\Cm3Iar.icf</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\Cm3RealView.scat</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\Cm3Start.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\cmsis_armcc.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\cmsis_gcc.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\core_cm3.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\core_cm3_psoc5.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\core_cmFunc.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\core_cmInstr.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CyBootAsmGnu.s</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CyBootAsmIar.s</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CyBootAsmRv.s</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CyDmac.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CyDmac.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CyFlash.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CyFlash.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CyLib.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CyLib.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\cypins.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\cyPm.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\cyPm.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CySpc.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\CySpc.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\cytypes.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\cy_boot\cyutils.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\Stepper</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\Stepper\Stepper.c</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\Stepper\Stepper.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\Stepper\Stepper_aliases.h</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\UART_1</v>
+<v>Stepper Motor Timing\Design03\Generated_Source\PSoC5\UART_1\UART_1.c</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Stepper Motor Timing</v>
+<v>Stepper Motor Timing\Design03</v>
+<v>Stepper Motor Timing\Design03\TopDesign</v>
+<v>Stepper Motor Timing\Design03\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Stepper Motor Timing</v>
+<v>Stepper Motor Timing\Design03</v>
+<v>Stepper Motor Timing\Design03\TopDesign</v>
+<v>Stepper Motor Timing\Design03\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Stepper Motor Timing</v>
+<v>Stepper Motor Timing\Design03</v>
+<v>Stepper Motor Timing\Design03\CortexM3</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\Cm3Start.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\CyDmac.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\CySpc.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\main.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\Stepper.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\UART_1.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\UART_1_BOOT.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\UART_1_INT.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\UART_1_IntClock.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\UART_1_PM.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Design03.elf</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Design03.hex</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Design03.map</v>
+<v>Stepper Motor Timing\Design03\Design03.gpdsc</v>
+<v>Stepper Motor Timing\Design03\Design03.rpt</v>
+<v>Stepper Motor Timing\Design03\Design03_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Stepper Motor Timing</v>
+<v>Stepper Motor Timing\Design03</v>
+<v>Stepper Motor Timing\Design03\CortexM3</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\Cm3Start.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\CyDmac.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\CySpc.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\main.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\Stepper.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\UART_1.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\UART_1_BOOT.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\UART_1_INT.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\UART_1_IntClock.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Listing Files\UART_1_PM.lst</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Design03.elf</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Design03.hex</v>
+<v>Stepper Motor Timing\Design03\CortexM3\ARM_GCC_493\Debug\Design03.map</v>
+<v>Stepper Motor Timing\Design03\Design03.gpdsc</v>
+<v>Stepper Motor Timing\Design03\Design03.rpt</v>
+<v>Stepper Motor Timing\Design03\Design03_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Stepper Motor Timing</v>
+<v>Stepper Motor Timing\Design03</v>
+<v>Stepper Motor Timing\Design03\PSoC 5LP Architecture TRM</v>
+<v>Stepper Motor Timing\Design03\CY8C58LP Family Datasheet</v>
+<v>Stepper Motor Timing\Design03\System Reference Guides</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Stepper Motor Timing</v>
+<v>Stepper Motor Timing\Design03</v>
+<v>Stepper Motor Timing\Design03\PSoC 5LP Architecture TRM</v>
+<v>Stepper Motor Timing\Design03\CY8C58LP Family Datasheet</v>
+<v>Stepper Motor Timing\Design03\System Reference Guides</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\Design03.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Design03.cydsn\Design03.cydwr" />
+<name v=".\Design03.cydsn\main.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1581, 804" SelectedTabbedMdiWindow="8bd50b75-e331-409a-abdd-3c3fbac36723"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="1650d342-6360-4656-beee-921ee06287ff" /><DocumentWindow Key="376153de-495f-4fc6-b9f4-4374f8d7729a" Guid="e2ddac12-90ef-44b9-8263-06456fbed5a0" /><DocumentWindow Key="b2aa6355-9e8e-4673-95d0-dc30faaa76c1" Guid="1d900de5-5c32-43a7-9bad-3038380698f7" /><DocumentWindow Key="fb959bfa-9881-4bf9-889a-2c4e2d0e4f45" Guid="8bd50b75-e331-409a-abdd-3c3fbac36723" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
